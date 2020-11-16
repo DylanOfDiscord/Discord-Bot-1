@@ -54,7 +54,7 @@
   },
   "devDependencies": {},
   "scripts": {
-    "start": "node ."
+    "start": "node src/index.js"
   },
   "engines": {
     "node": "12.x",
